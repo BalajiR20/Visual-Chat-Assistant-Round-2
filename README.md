@@ -136,5 +136,6 @@ All summaries and chats are saved in the SQLite database for future retrieval.
 ⏱ Timeline-based clickable summaries.
 ---
 📂 Sample Demo Video
-🎥 Drive Link: Sample Video
+🎥 Drive Link: [Download Sample Video]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1Vkdegjef2AYfk8qNAQ8jthZH_aITVrte/view?usp=sharing))
+
 
