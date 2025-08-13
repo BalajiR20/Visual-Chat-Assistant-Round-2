@@ -17,6 +17,7 @@ Modern content consumption often demands quick comprehension of long videos with
 * 💾 Persisting summaries & chat history in a local SQLite database.
 
 * 🎨 Offering a modern UI with gradient headers, card-style sections, and animated components for better UX.
+![Alt text](https://github.com/BalajiR20/Visual-Chat-Assistant-Round-2/blob/main/assests/Screenshot%202025-08-13%20231447.png)
 
 ## 🏗 Architecture Diagram
 ```plaintext
