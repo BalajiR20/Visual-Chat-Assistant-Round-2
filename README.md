@@ -27,10 +27,10 @@ Modern content consumption often demands quick comprehension of long videos with
 +--------+---------+
          |
          v
-+--------+---------+
-| Gemini 2.5 Pro   |
-|  Multimodal LLM  |
-+--------+---------+
++--------+---------------+
+| Gemini 2.0 flash exp   |
+|  Multimodal LLM        |
++--------+---------------+
          |
          v
 +--------+---------+          +-----------------------------+
@@ -54,7 +54,7 @@ Modern content consumption often demands quick comprehension of long videos with
 ## ⚙ Tech Stack & Reasoning
 * Component	Technology / Tool	Why Chosen?
 * Frontend	Streamlit	Rapid development of interactive UIs with Python.
-* AI Model	Gemini 2.5 Pro (Google)	Handles text + image inputs, supports long-context reasoning, and excels at semantic understanding.
+* AI Model	Gemini 2.0 flash exp (Google)	Handles text + image inputs, supports long-context reasoning, and excels at semantic understanding.
 * Video Frames	OpenCV, PIL	Extract frames from uploaded videos for AI ingestion.
 * Database	SQLite	Lightweight, file-based DB for local persistence of summaries & chats.
 * Chat System	Streamlit Chat API	Simple, persistent conversational UI.
