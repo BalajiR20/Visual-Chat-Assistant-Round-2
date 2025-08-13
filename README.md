@@ -85,7 +85,7 @@ GEMINI_API_KEY=your_gemini_api_key
 4️⃣ Run the App
 ```bash
 
-streamlit run main.py
+streamlit run round2.py
 ```
 ---
 ## 🚀 How to Use:
