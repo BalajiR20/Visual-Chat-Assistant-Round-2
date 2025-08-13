@@ -69,8 +69,7 @@ Modern content consumption often demands quick comprehension of long videos with
 1️⃣ Clone the Repository
 ```bash
 
-git clone https://github.com/BalajiR20/Visual-Understanding-Chat-Assistant.git
-cd Visual-Understanding-Chat-Assistant
+git clone https://github.com/BalajiR20/Visual-Chat-Assistant-Round-2.git
 ```
 2️⃣ Install Dependencies
 ```bash
@@ -135,7 +134,7 @@ All summaries and chats are saved in the SQLite database for future retrieval.
 
 ⏱ Timeline-based clickable summaries.
 ---
-📂 Sample Demo Video
+
 🎥 Drive Link: [Download Sample Video](https://drive.google.com/file/d/1Vkdegjef2AYfk8qNAQ8jthZH_aITVrte/view?usp=sharing)
 
 
