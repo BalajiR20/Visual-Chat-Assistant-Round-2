@@ -21,7 +21,11 @@ Modern content consumption often demands quick comprehension of long videos with
 
 ## 🏗 Architecture Diagram
 ```plaintext
-
++------------------+
+|   New Session     |
++--------+---------+
+         |
+         v
 +------------------+
 |  User Uploads    |
 |      Video       |
