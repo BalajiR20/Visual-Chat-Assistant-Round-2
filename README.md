@@ -2,7 +2,7 @@
 # 🎥 AI-Powered Video Summarizer & Chat Assistant
 
 An intelligent video understanding tool that combines multimodal AI with a clean, interactive Streamlit interface.
-Upload a video, get an AI-generated detailed summary, and ask context-aware questions in real time — powered by Google’s Gemini 2.5 Pro model.
+Upload a video, get an AI-generated detailed summary, and ask context-aware questions in real time — powered by Google’s Gemini 2.0 Flash exp model.
 ___
 ![Alt text](https://github.com/BalajiR20/Visual-Chat-Assistant-Round-2/blob/main/assests/Screenshot%202025-08-13%20231223.png)
 
